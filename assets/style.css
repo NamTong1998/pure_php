@@ -1,0 +1,45 @@
+.formbox
+{
+	width: 50%;
+	margin-left: 25%;
+}
+
+.formbox2
+{
+	width: 50%;
+	margin-left: 0%;
+}
+
+#form
+{
+	display: visible;
+}
+
+.dbtable
+{
+	width: 100%;
+	border: 2px black groove;
+	border-collapse: collapse;
+}
+
+.dbtable tr td
+{
+	border: 2px black groove;
+}
+
+input[type=text], input[type=password], input[type=datetime-local], textarea
+{
+	width: 98%;
+}
+
+.orderNumber
+{
+	width: 50px;
+}
+
+.hoverForm
+{
+	display: block;
+  	margin-right: auto;
+  	margin-left: auto;
+}
